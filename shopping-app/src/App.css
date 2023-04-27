@@ -1,0 +1,9 @@
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+Badge {
+  color: inherit !important;
+  background-color: inherit !important;
+}
